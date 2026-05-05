@@ -3,3 +3,7 @@ test*.*
 *.jpg
 *.jpeg
 *.mp4
+
+# 폴더 속 이미지는 예외로 처리
+!data/*.png
+!data/*.jpg
